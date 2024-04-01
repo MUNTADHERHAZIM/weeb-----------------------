@@ -69,7 +69,8 @@
 ## Результаты
 
 Код обучает модель YOLOv8 на датасете изображений сорняков. Обученная модель может затем использоваться для обнаружения сорняков на новых изображениях.
-
+![Alt Text](runs/detect/predict/agri_0_1334.jpeg)
+![Alt Text](runs/detect/predict/agri_0_1192.jpeg)
 ## Дополнительные сведения
 - YOLOv8: [GitHub - ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
 - Splitfolders: [PyPI - split-folders](https://pypi.org/project/split-folders/)
