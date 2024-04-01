@@ -17,7 +17,7 @@
 
 1. Скачайте код:
     ```sh
-    git clone https://github.com/user/repo.git
+    git clone https://github.com/MUNTADHERHAZIM/weeb-----------------------.git
     cd repo
     ```
 
