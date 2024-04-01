@@ -1,0 +1,6 @@
+train: C:\Users\Muntadher\Desktop\weeb (Обнаружение сорняков)\output\train  # Путь к обучающему набору данных
+val: C:\Users\Muntadher\Desktop\weeb (Обнаружение сорняков)\output\val      # Путь к валидационному набору данных
+test: C:\Users\Muntadher\Desktop\weeb (Обнаружение сорняков)\output\test    # Путь к тестовому набору данных
+
+nc: 2                         # Количество классов объектов для обнаружения
+names: ['crop', 'weed']       # Наименования классов: 0 - crop (культура), 1 - weed (сорняк)
