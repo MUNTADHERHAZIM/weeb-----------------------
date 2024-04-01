@@ -1,5 +1,5 @@
 # Обнаружение сорняков с помощью YOLOv8
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EvAM8lyu-398niKv43aeogIHJdH77Zgl#scrollTo=602CvBUyX1x1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z-DIT9IN3WehhZP-SuNULmPRvWcYhpZK)
 
 ## Описание
 
